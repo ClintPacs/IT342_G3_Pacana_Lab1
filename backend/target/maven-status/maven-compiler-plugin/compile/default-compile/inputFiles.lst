@@ -1,0 +1,16 @@
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\security\JwtUtils.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\controller\AuthController.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\repository\UserRepository.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\service\AuthService.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\security\AuthTokenFilter.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\dto\JwtResponse.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\dto\LoginRequest.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\controller\UserController.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\security\AuthEntryPointJwt.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\security\UserDetailsImpl.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\dto\RegisterRequest.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\model\User.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\BrewBatchApplication.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\config\WebSecurityConfig.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\security\UserDetailsServiceImpl.java
+C:\Users\Clint\Downloads\BrewBatch\backend\src\main\java\com\brewbatch\dto\MessageResponse.java
