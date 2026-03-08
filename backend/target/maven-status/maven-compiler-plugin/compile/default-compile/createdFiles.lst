@@ -1,0 +1,17 @@
+com\brewbatch\dto\LoginRequest.class
+com\brewbatch\BrewBatchApplication.class
+com\brewbatch\service\AuthService.class
+com\brewbatch\dto\JwtResponse.class
+com\brewbatch\security\AuthEntryPointJwt.class
+com\brewbatch\controller\UserController.class
+com\brewbatch\config\WebSecurityConfig.class
+com\brewbatch\security\UserDetailsServiceImpl.class
+com\brewbatch\security\AuthTokenFilter.class
+com\brewbatch\security\UserDetailsImpl.class
+com\brewbatch\dto\RegisterRequest.class
+com\brewbatch\model\User.class
+com\brewbatch\controller\AuthController.class
+com\brewbatch\repository\UserRepository.class
+com\brewbatch\model\User$Builder.class
+com\brewbatch\dto\MessageResponse.class
+com\brewbatch\security\JwtUtils.class
