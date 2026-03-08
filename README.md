@@ -1,6 +1,6 @@
 # ☕ BrewBatch — Inventory & Order Management for Coffee Shops
 
-> **IT342 Laboratory 1 | Group 3**
+> **IT342 Laboratory 1 |**
 > A full-stack application to streamline inventory tracking and order management for coffee shops.
 
 ---
